@@ -1,0 +1,13 @@
+{
+  "name": "aoc-backend",
+  "version": "1.0.0",
+  "description": "AOC Planning - ClickUp Vendors API",
+  "main": "api/vendors.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "keywords": ["aoc", "clickup", "vendors"],
+  "author": "Ana Villegas",
+  "license": "MIT"
+}
